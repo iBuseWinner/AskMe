@@ -1,0 +1,17 @@
+messages:
+  prefix: "&8[&a&lAsk&c&lMe&8]&7"
+  answer: "%prefix% &7{&5%helper% &b-> &5%player%&7} &e%message%"
+  question: "%prefix% &7{&5%player%&7} &e%message%"
+  join-helper: "%prefix% &aВы успешно начали свою работу хелпера!"
+  join-server: "%prefix% &aХелпер &5%helper% &aначал свою работу! Задавайте вопросы командой &6/ask <Ваш вопрос>&a!"
+  quit-helper: "%prefix% &aВы успешно закончили свою работу хелпера!"
+  quit-server: "%prefix% &aХелпер &5%helper% &aзакончил свою работу!"
+  ans-usage:
+    - "/ans join - приступить к работе хелпера"
+    - "/ans quit - закончить работу хелпера"
+    - "/ans <ник> <сообщение> - ответить на вопрос игрока"
+  ask-usage: "/ask <Ваш вопрос> - задать вопрос онлайн хелперам"
+  player-only: "%prefix% &cКоманда доступна только игрокам!"
+  no-perm: "%prefix% &cУ Вас недостаточно прав для совершения данного действия!"
+  player-not-found: "%prefix% &cИгрок не найден или произошла ещё какая-то ошибка!"
+  arent-work: "%prefix% &cВы не на работе! Используйте команду &a/ans join&c, чтобы начать получать вопросы!"

@@ -1,0 +1,11 @@
+name: AskMe
+version: ${project.version}
+main: ru.ibusewinner.spigot.askme.AskMe
+api-version: 1.13
+authors: [iBuseWinner]
+description: Simple AskMe plugin for spigotmc.ru
+website: spigotmc.ru
+
+commands:
+  ans:
+  ask:
